@@ -6,9 +6,10 @@
 - 📫 How to reach me
   
 cyb0rgdoll
-[ discord ] 
-[ hackthebox ]
-[ ctftime.org ]
+
+  [ discord ] 
+  [ hackthebox ]
+  [ ctftime.org ]
 
 To be announced soon with more repos and commits. ;)
 <!---
