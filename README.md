@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @cyb0rgdoll, Im in my early 30's and reside in the most isolated city in Australia
-- 👀 I’m interested in Cybersecurity, want to become a pro coder or researcher to help others defend from malicious attacks 
-- 🌱 I’m currently learning shell, python, go, ruby, perl and making few scripts
-- 💞️ I’m looking to make a website soon based on ctf write-ups, terminal configs & cheatsheets for new c0d3rs...
+👋 Hi, I’m @cyb0rgdoll, I reside in the most isolated city in Australia.
+👀 I’m interested in Cybersecurity, IT and am studying masters in this field.
+🌱 I’m currently learning few programming languages such as shell, python, go, ruby, perl, bash and few more.
+💞️ Love playing CTFs, volunteering at security events and learning new skills.
 
-- 📫 How to reach me 
-[ discord ] cyb0rgdoll
+- 📫 How to reach me
+  
+cyb0rgdoll
+[ discord ] 
 [ hackthebox ]
 [ ctftime.org ]
 
