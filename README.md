@@ -1,10 +1,10 @@
- - 👋 Hi, I’m @cyb0rgdoll, I reside in the most isolated city in Australia.
+ - 👋 Hi, I’m @cyb0rgdoll, I reside in the most isolated city in Australia; Perth.
   
- - 👀 I’m interested in Cybersecurity, IT and am studying masters in this field.
+ - 👀 I’m interested in Cybersecurity and Information Technology, I am currently studying masters degree in this field.
   
 -  🌱 I’m currently learning few programming languages such as shell, python, go, ruby, perl, bash and few more.
   
--  💞️ Love playing CTFs, volunteering at security events and learning new skills.
+-  💞️ I enjoy playing CTFs, volunteering at security events and learning new skills.
 
   
 
