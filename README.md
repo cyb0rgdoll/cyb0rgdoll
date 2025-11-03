@@ -16,7 +16,7 @@ cyb0rgdoll
 [ ctftime.org ]
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=599022" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/MpandA.png" alt="Your Image Badge" />
 
 <!---
 cyb0rgdoll/cyb0rgdoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
