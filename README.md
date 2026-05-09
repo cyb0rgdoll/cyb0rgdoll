@@ -13,7 +13,7 @@
 
 ## About Me
 
-Passionate about cybersecurity, automation, Linux environments and practical security learning.
+Passionate about coding, cybersecurity, automation, Linux environments and practical security learning.
 
 - Currently studying a master's degree in Cybersecurity and Information Technology.
 - Building hands-on skills with Python, Bash, shell scripting, Go, Ruby, and Perl.
@@ -49,7 +49,7 @@ Passionate about cybersecurity, automation, Linux environments and practical sec
 
 ---
 
-<h3 align="center">Learning, building, breaking, documenting, and improving.</h3>
+<h3 align="center">Know thyself and you will win all battles.</h3>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/MpandA.png" alt="TryHackMe badge" />
