@@ -16,13 +16,13 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 
 - Currently studying a master's degree in Cybersecurity and Information Technology.
 - Building hands-on skills with Python, Bash, shell scripting, Go, Ruby, and Perl.
-- Interested in OSINT, asset discovery, vulnerability assessment, cloud security and defensive security operations.
+- Interested in coding, OSINT, threat hunting, protecting digital assets, vulnerability assessments, cloud security and defensive security operations.
 - Working/building on practical setup scripts and security tools.
 - Always learning through labs, CTFs, security events, and real-world projects.
 
 ## Current Projects
 
-- Finish my studies for good this year and hopefully get to publish a research project of mine.
+- Finish my studies (Masters in IT/Cybersecurity) for good this year and hopefully get to publish a research project of mine.
 - Developing and improving `Inventa`, a lightweight asset discovery project.
 - Building tools and scripts for reconnaissance, vulnerabilty mananagement and security testing.
 
