@@ -28,12 +28,7 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 
 ---
 
-## Programming Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyb0rgdoll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb0rgdoll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages" />
-</p>
+## Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cyb0rgdoll&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -43,9 +38,6 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 
 <h3 align="center">Know thyself and you will win all battles.</h3>
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MpandA.png" alt="TryHackMe badge" />
-</p>
 
 <!---
 cyb0rgdoll/cyb0rgdoll is a special repository because its README.md appears on your GitHub profile.
