@@ -1,7 +1,7 @@
 <h1 align="center">Miranda | cyb0rgdoll</h1>
 
 <p align="center">
-  <strong>Cybersecurity student | Linux user | CTF learner | Security tooling builder</strong>
+  <strong>Cybersecurity Professional and Analyst</strong>
 </p>
 
 <p align="center">
@@ -13,18 +13,17 @@
 
 ## About Me
 
-Passionate about cybersecurity, automation, Linux environments, and practical security learning.
+Passionate about cybersecurity, automation, Linux environments and practical security learning.
 
 - Currently studying a master's degree in Cybersecurity and Information Technology.
 - Building hands-on skills with Python, Bash, shell scripting, Go, Ruby, and Perl.
-- Interested in OSINT, asset discovery, vulnerability assessment, cloud security, and defensive security operations.
-- Working on practical setup scripts, cybersecurity notes, CTF resources, and lightweight security tools.
+- Interested in OSINT, asset discovery, vulnerability assessment, cloud security and defensive security operations.
+- Working/building on practical setup scripts and security tools.
 - Always learning through labs, CTFs, security events, and real-world projects.
 
 ## Current Focus
 
 - Developing and improving `Inventa`, a lightweight asset discovery project.
-- Refining Kali, WSL, and Termux setup automation.
 - Building repeatable workflows for reconnaissance, security testing, and technical documentation.
 
 ## Connect
