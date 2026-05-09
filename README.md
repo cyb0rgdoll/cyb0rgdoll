@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyb0rgdoll&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/cyb0rgdoll?label=Followers&style=flat&color=blue" alt="GitHub followers" />
 </p>
 
 ---
@@ -35,16 +34,15 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 
 ---
 
+## Programming Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb0rgdoll&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyb0rgdoll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb0rgdoll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb0rgdoll&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cyb0rgdoll&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=cyb0rgdoll&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
