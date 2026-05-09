@@ -1,7 +1,7 @@
 <h1 align="center">Miranda | cyb0rgdoll</h1>
 
 <p align="center">
-  <strong>Cybersecurity Professional and Analyst</strong>
+  <strong>Cybersecurity Professional, Researcher and Analyst</strong>
 </p>
 
 <p align="center">
@@ -28,9 +28,6 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 ## Connect
 
 - GitHub: `cyb0rgdoll`
-- Discord: `cyb0rgdoll`
-- Hack The Box: `cyb0rgdoll`
-- CTFtime: `cyb0rgdoll`
 
 ---
 
