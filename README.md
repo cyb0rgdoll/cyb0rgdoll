@@ -20,14 +20,11 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 - Working/building on practical setup scripts and security tools.
 - Always learning through labs, CTFs, security events, and real-world projects.
 
-## Current Focus
+## Current Projects
 
+- Finish my studies for good this year and hopefully get to publish a research project of mine.
 - Developing and improving `Inventa`, a lightweight asset discovery project.
-- Building repeatable workflows for reconnaissance, security testing, and technical documentation.
-
-## Connect
-
-- GitHub: `cyb0rgdoll`
+- Building tools and scripts for reconnaissance, vulnerabilty mananagement and security testing.
 
 ---
 
