@@ -24,11 +24,20 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 
 - Finish my studies (Masters in IT/Cybersecurity) for good this year and hopefully get to publish a research project of mine.
 - Developing and improving `Inventa`, a lightweight asset discovery project.
-- Building tools and scripts for reconnaissance, vulnerabilty mananagement and security testing.
+- Building tools and scripts for reconnaissance, vulnerability management and security testing.
 
 ---
 
-## Stats
+## Programming Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb0rgdoll&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyb0rgdoll&theme=tokyonight" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyb0rgdoll&theme=tokyonight" alt="Top languages by commit" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cyb0rgdoll&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -37,7 +46,6 @@ Passionate about coding, cybersecurity, automation, Linux environments and pract
 ---
 
 <h3 align="center">Know thyself and you will win all battles.</h3>
-
 
 <!---
 cyb0rgdoll/cyb0rgdoll is a special repository because its README.md appears on your GitHub profile.
